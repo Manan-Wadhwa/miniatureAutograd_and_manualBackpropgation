@@ -16,6 +16,7 @@ This notebook provides a Python implementation of an autograd system designed fo
 ## Prerequisites
 - Python 3.x
 - Numpy
+- Pytorch
 
 ## How to Use
 1. Open the notebook file.
